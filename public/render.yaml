@@ -1,0 +1,5 @@
+services:
+  - type: static
+    name: 3d-run-game
+    env: static
+    staticPublishPath: public
